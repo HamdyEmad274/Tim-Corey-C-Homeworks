@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\MiniProject GuestBook\\GuestBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E76828-FB5E-4A08-BF76-209B4C906B75}|GuestBook.csproj|d:\\hamdy\\top courses\\tim corey c#\\my homeworks\\miniproject guestbook\\guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E76828-FB5E-4A08-BF76-209B4C906B75}|GuestBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D179D56-6753-497F-93B3-659D46D670C6}|..\\GuestBookLibrary\\GuestBookLibrary.csproj|d:\\hamdy\\top courses\\tim corey c#\\my homeworks\\miniproject guestbook\\guestbooklibrary\\model\\guestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAHgUAAAAAAAAAAAtwIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-12T06:33:17.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestModel.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\MiniProject GuestBook\\GuestBookLibrary\\Model\\GuestModel.cs",
+              "RelativeDocumentMoniker": "..\\GuestBookLibrary\\Model\\GuestModel.cs",
+              "ToolTip": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\MiniProject GuestBook\\GuestBookLibrary\\Model\\GuestModel.cs",
+              "RelativeToolTip": "..\\GuestBookLibrary\\Model\\GuestModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:46:26.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\MiniProject GuestBook\\GuestBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\MiniProject GuestBook\\GuestBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:43:44.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

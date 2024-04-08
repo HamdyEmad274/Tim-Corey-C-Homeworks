@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Battleship lite\\BattleShip Lite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A052FEF-9745-4453-A955-E0C8CC24CE05}|..\\BattleShip Lite Library\\BattleShip Lite Library.csproj|d:\\hamdy\\top courses\\tim corey c#\\my homeworks\\battleship lite\\battleship lite library\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B16FABB-7BF7-449D-B0D0-DC1273103062}|BattleShip Lite.csproj|d:\\hamdy\\top courses\\tim corey c#\\my homeworks\\battleship lite\\battleship lite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B16FABB-7BF7-449D-B0D0-DC1273103062}|BattleShip Lite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Battleship lite\\BattleShip Lite Library\\GameLogic.cs",
+              "RelativeDocumentMoniker": "..\\BattleShip Lite Library\\GameLogic.cs",
+              "ToolTip": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Battleship lite\\BattleShip Lite Library\\GameLogic.cs",
+              "RelativeToolTip": "..\\BattleShip Lite Library\\GameLogic.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAswHAAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:50:49.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Battleship lite\\BattleShip Lite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Battleship lite\\BattleShip Lite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAArwCgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:46:09.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

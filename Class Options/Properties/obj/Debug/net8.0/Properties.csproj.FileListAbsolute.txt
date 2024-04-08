@@ -1,0 +1,14 @@
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\bin\Debug\net8.0\Properties.exe
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\bin\Debug\net8.0\Properties.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\bin\Debug\net8.0\Properties.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\bin\Debug\net8.0\Properties.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\refint\Properties.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Class Options\Properties\obj\Debug\net8.0\ref\Properties.dll

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Class Options\\Namespaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A77E3-B37E-4984-BBCD-387F4616DF53}|Namespaces.csproj|d:\\hamdy\\top courses\\tim corey c#\\my homeworks\\class options\\namespaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8A77E3-B37E-4984-BBCD-387F4616DF53}|Namespaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8A77E3-B37E-4984-BBCD-387F4616DF53}|Namespaces.csproj|d:\\hamdy\\top courses\\tim corey c#\\my homeworks\\class options\\namespaces\\classes\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8A77E3-B37E-4984-BBCD-387F4616DF53}|Namespaces.csproj|solutionrelative:classes\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Class Options\\Namespaces\\Classes\\Welcome.cs",
+              "RelativeDocumentMoniker": "Classes\\Welcome.cs",
+              "ToolTip": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Class Options\\Namespaces\\Classes\\Welcome.cs",
+              "RelativeToolTip": "Classes\\Welcome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T09:03:44.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Class Options\\Namespaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hamdy\\Top Courses\\Tim Corey C#\\My HomeWorks\\Class Options\\Namespaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T09:02:09.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

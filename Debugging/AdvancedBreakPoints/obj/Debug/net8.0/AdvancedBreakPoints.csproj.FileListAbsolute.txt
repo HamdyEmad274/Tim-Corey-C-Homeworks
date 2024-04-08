@@ -1,0 +1,28 @@
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.exe
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.deps.json
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.runtimeconfig.json
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.dll
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.pdb
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.AssemblyInfoInputs.cache
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.AssemblyInfo.cs
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.csproj.CoreCompileInputs.cache
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.dll
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\refint\AdvancedBreakPoints.dll
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.pdb
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.genruntimeconfig.cache
+D:\Hamdy\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\ref\AdvancedBreakPoints.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.exe
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.runtimeconfig.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\bin\Debug\net8.0\AdvancedBreakPoints.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\refint\AdvancedBreakPoints.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\AdvancedBreakPoints.genruntimeconfig.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Debugging\AdvancedBreakPoints\obj\Debug\net8.0\ref\AdvancedBreakPoints.dll

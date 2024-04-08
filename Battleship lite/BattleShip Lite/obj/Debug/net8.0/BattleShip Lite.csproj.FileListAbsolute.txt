@@ -1,0 +1,18 @@
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite.exe
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite.runtimeconfig.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite Library.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\bin\Debug\net8.0\BattleShip Lite Library.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.csproj.AssemblyReference.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleSh.B67182C0.Up2Date
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\refint\BattleShip Lite.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\BattleShip Lite.genruntimeconfig.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite\obj\Debug\net8.0\ref\BattleShip Lite.dll

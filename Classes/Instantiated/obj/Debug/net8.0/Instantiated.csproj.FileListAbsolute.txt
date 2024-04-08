@@ -1,0 +1,14 @@
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\bin\Debug\net8.0\Instantiated.exe
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\bin\Debug\net8.0\Instantiated.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\bin\Debug\net8.0\Instantiated.runtimeconfig.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\bin\Debug\net8.0\Instantiated.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\bin\Debug\net8.0\Instantiated.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\refint\Instantiated.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\Instantiated.genruntimeconfig.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Instantiated\obj\Debug\net8.0\ref\Instantiated.dll

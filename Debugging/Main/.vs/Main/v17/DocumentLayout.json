@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242F311C-7724-4B92-AAA8-01D6D8008C0B}|..\\AdvancedBreakPoints\\AdvancedBreakPoints.csproj|d:\\hamdy\\tim corey c#\\my homeworks\\debugging\\advancedbreakpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD67A4-0050-4FCB-93AF-C37F78445790}|..\\AdvancedException\\AdvancedException.csproj|d:\\hamdy\\tim corey c#\\my homeworks\\debugging\\advancedexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68BCE863-D351-4FBF-8216-85CE3EEA1D23}|..\\HandleException\\HandleException.csproj|d:\\hamdy\\tim corey c#\\my homeworks\\debugging\\handleexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CEBD26E-641F-4498-8DEB-DB4F712BCC28}|Main.csproj|D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\Main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CEBD26E-641F-4498-8DEB-DB4F712BCC28}|Main.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\AdvancedBreakPoints\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AdvancedBreakPoints\\Program.cs",
+              "ToolTip": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\AdvancedBreakPoints\\Program.cs",
+              "RelativeToolTip": "..\\AdvancedBreakPoints\\Program.cs",
+              "ViewState": "AQIAAAUAAADw//////8wwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:55:22.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\AdvancedException\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AdvancedException\\Program.cs",
+              "ToolTip": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\AdvancedException\\Program.cs",
+              "RelativeToolTip": "..\\AdvancedException\\Program.cs",
+              "ViewState": "AQIAAAMAAABgZmZmZmYkwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:21:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\HandleException\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HandleException\\Program.cs",
+              "ToolTip": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\HandleException\\Program.cs",
+              "RelativeToolTip": "..\\HandleException\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T14:57:33.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hamdy\\Tim Corey C#\\My HomeWorks\\Debugging\\Main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAADAzMzMzMwYwBEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:41:10.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\bin\Debug\net8.0\GuestBookLibrary.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\bin\Debug\net8.0\GuestBookLibrary.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\bin\Debug\net8.0\GuestBookLibrary.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\GuestBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\GuestBookLibrary.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\GuestBookLibrary.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\GuestBookLibrary.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\GuestBookLibrary.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\refint\GuestBookLibrary.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\GuestBookLibrary.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\MiniProject GuestBook\GuestBookLibrary\obj\Debug\net8.0\ref\GuestBookLibrary.dll

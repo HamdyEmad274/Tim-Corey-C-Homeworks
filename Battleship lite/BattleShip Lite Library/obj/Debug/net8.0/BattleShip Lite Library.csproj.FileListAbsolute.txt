@@ -1,0 +1,11 @@
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\bin\Debug\net8.0\BattleShip Lite Library.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\bin\Debug\net8.0\BattleShip Lite Library.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\bin\Debug\net8.0\BattleShip Lite Library.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\BattleShip Lite Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\BattleShip Lite Library.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\BattleShip Lite Library.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\BattleShip Lite Library.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\BattleShip Lite Library.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\refint\BattleShip Lite Library.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\BattleShip Lite Library.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Battleship lite\BattleShip Lite Library\obj\Debug\net8.0\ref\BattleShip Lite Library.dll

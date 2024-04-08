@@ -1,0 +1,14 @@
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\bin\Debug\net8.0\Static.exe
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\bin\Debug\net8.0\Static.deps.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\bin\Debug\net8.0\Static.runtimeconfig.json
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\bin\Debug\net8.0\Static.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\bin\Debug\net8.0\Static.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.AssemblyInfoInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.AssemblyInfo.cs
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.csproj.CoreCompileInputs.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\refint\Static.dll
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.pdb
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\Static.genruntimeconfig.cache
+D:\Hamdy\Top Courses\Tim Corey C#\My HomeWorks\Classes\Main\obj\Debug\net8.0\ref\Static.dll
